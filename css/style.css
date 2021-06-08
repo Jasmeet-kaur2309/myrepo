@@ -1,0 +1,25 @@
+    body {
+        background-color: powderblue;
+    }
+    
+    h1 {
+        /* background-color: #fea82f; */
+        width: 50%;
+        text-align: right;
+        color: #99154e;
+    }
+    
+    h2 {
+        color: #99154e;
+    }
+    
+    h3 {
+        color: #99154e;
+    }
+    
+    hr {
+        border-top-style: dotted;
+        border-width: 5px;
+        width: 30%;
+        border-bottom: none;
+    }
